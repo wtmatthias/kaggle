@@ -1,0 +1,1 @@
+These are the different solutions attempted in [Titanic: Machine Learning from Disaster]([https://www.kaggle.com/c/titanic) used on Kaggle as an introduction to using the site and joining competitions.
